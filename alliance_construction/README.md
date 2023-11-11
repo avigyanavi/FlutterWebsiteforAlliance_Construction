@@ -1,6 +1,6 @@
 # alliance_construction
 
-A new Flutter project.
+Flutter Website for the construction firm alliance construction
 
 ## Getting Started
 
